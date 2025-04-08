@@ -38,3 +38,7 @@ git clone https://github.com/swapnilraj84/Zynetic-Weather-App.git
 
 # Command
 npm run dev
+
+## 🔑 API Details
+
+Api key used - 7dfd2fa429e1db3fb36c02f3199edbac
